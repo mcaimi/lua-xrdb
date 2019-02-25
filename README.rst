@@ -16,6 +16,7 @@ The provided makefile comes with a couple targets (for different versions of the
 Compile the x11 bridge module and install that in the Lua cpath:
 
 .. code:: bash
+
     # make
 
     # cp xresources53.so $HOME/.config/lualibs/xresources.so
